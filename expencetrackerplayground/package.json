@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sangeethnandakumar.github.io/expencetrackerplayground",
+  "homepage": "https://sangeethnandakumar.github.io/expencetrackerplayground.github.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
